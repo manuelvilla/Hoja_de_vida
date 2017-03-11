@@ -1,17 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width,user-scalable=no">
-	<meta name="author" content="Manuel Villaseñor">
-	<meta name="keywords" content="vida, educación, experiencia">
-	<meta name="description" content="Ejercicio de evaluación NextU">
-	<title>Hoja de vida</title>
-</head>
-<body>
-<header>
-
-<svg width="250" height="250" version="1.0" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 250 250" style="enable-background:new 0 0 250 250;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#B4A895;}
@@ -32,11 +21,3 @@
 <rect x="60.3" y="81.2" class="st3" width="114.2" height="69"/>
 <text transform="matrix(1 0 0 1 60.3084 143.8549)" class="st2 st4 st5">MV</text>
 </svg>
-
-<title><h1>Hoja de Vida</h1></title>
-</header>
-<footer>
-</footer>
-</body>
-</html>
-	
